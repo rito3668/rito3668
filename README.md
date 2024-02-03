@@ -1,4 +1,4 @@
-[![Masterhead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)]
+![Masterhead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Ritabrata Pal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img aligh="right" alt="gif" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif"/>
