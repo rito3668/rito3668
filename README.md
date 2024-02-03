@@ -4,7 +4,7 @@
 <img aligh="right" alt="gif" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rito3668&label=Profile%20views&color=0e75b6&style=flat" alt="rito3668" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/rito3668" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rito3668?logo=twitter&style=for-the-badge" alt="https://twitter.com/rito3668" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rito3668" target="blank"></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://ritabratapal.vercel.app/](https://ritabratapal.vercel.app/)
 
